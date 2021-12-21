@@ -1,0 +1,32 @@
+[
+	{
+		"tipo": "Receita",
+		"descricao": "vendas",
+		"valor": "40",
+		"data": "2021-12-18"
+	},
+	{
+		"tipo": "Receita",
+		"descricao": "vendas",
+		"valor": "20",
+		"data": "2021-12-18"
+	},
+	{
+		"tipo": "Despesa",
+		"descricao": "limpeza",
+		"valor": "100",
+		"data": "2021-12-18"
+	},
+	{
+		"tipo": "Despesa",
+		"descricao": "limpeza",
+		"valor": "50",
+		"data": "2021-12-18"
+	},
+	{
+		"tipo": "Receita",
+		"descricao": "vendas",
+		"valor": "300",
+		"data": "2021-12-10"
+	}
+]

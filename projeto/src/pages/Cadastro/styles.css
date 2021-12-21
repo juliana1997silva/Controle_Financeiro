@@ -1,0 +1,21 @@
+html, body { 
+  min-height: 100%; }
+body{
+  height: 100%;
+  background-repeat: no-repeat;
+  margin: 0px;
+  background-image: linear-gradient(to bottom right, #063970, #fff);
+}
+#btn{
+  border-radius: 20px;
+  margin:5px;
+  width: 150px;
+}
+#footer{
+  padding-top:10%;
+  text-align: center;
+}
+#title{
+  font-size:34px;
+  font-weight: bold;
+}
